@@ -1,0 +1,24 @@
+sudo pacman -S \
+nano \
+xdo \
+xorg-xprop \
+xorg-server \
+dhcpcd \
+iwd \
+gtk2 \
+gtk3 \
+dunst \
+libnotify \
+feh \
+arc-icon-theme \
+arc-gtk-theme \
+lxtask \
+lxdm \
+leafpad \
+xf86-video-intel \
+p7zip \
+pacmatic \
+rox \
+deadbeef \
+ffmpeg \
+libmad 
