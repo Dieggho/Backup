@@ -1,2 +1,2 @@
 # My Backup
-Complete Archlinux Backup
+Archlinux Backup
