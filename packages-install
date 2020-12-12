@@ -3,9 +3,12 @@ alsa-utils \
 arc-icon-theme \
 arc-gtk-theme \
 asoundconf \
+awesome-terminal-fonts \
 deadbeef \
 dhcpcd \
+dosfstools \
 dunst \
+exfat-utils \
 feh \
 ffmpeg \
 gtk2 \
@@ -18,6 +21,7 @@ lxdm \
 leafpad \
 nano \
 p7zip \
+pacman-contrib \
 pacmatic \
 pinta \
 rox \
