@@ -1,23 +1,30 @@
 sudo pacman -S \
-nano \
-xdo \
-xorg-xprop \
-xorg-server \
-dhcpcd \
-iwd \
-gtk2 \
-gtk3 \
-dunst \
-libnotify \
-feh \
+alsa-utils \
 arc-icon-theme \
 arc-gtk-theme \
-lxtask \
+asoundconf \
+deadbeef \
+dhcpcd \
+dunst \
+feh \
+ffmpeg \
+gtk2 \
+gtk3 \
+htop \
+iwd \
+libmad \
+libnotify \
 lxdm \
 leafpad \
+nano \
 p7zip \
 pacmatic \
+pinta \
 rox \
-deadbeef \
-ffmpeg \
-libmad 
+shotgun \
+transmission-gtk
+udevil \
+xcompmgr \
+xdo \
+xorg-xprop \
+xorg-server 
